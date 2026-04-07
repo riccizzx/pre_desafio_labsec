@@ -1,0 +1,12 @@
+
+AUTOR: GUILHERME RICCI MACHADO VILLELA
+CURSO: SISTEMAS DE INFORMACAO
+
+PROCESSO SELETIVO LABSEC 2026a
+
+guia:
+1. Ler o PDF em bytes
+2. Gerar SHAKE256 (512 bits) do PDF
+3. Gerar SHAKE256 (512 bits) da matrícula
+4. Fazer XOR entre os dois
+5. Converter pra hex minúsculo
